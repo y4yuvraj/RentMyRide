@@ -20,12 +20,6 @@ This is a dynamic peer-to-peer car rental platform that allows users to publish 
 
 ---
 
-## **Features**
-- 🎙️ **Clear, English voice-over tutorials** to guide learners through the development process.
-- 💡 **Suitable for both beginners and experienced developers** looking to enhance their skills in building web applications.
-
----
-
 ### **How to Run the Project**
 1. Clone the repository:  
    ```bash
